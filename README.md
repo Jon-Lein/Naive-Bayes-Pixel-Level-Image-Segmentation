@@ -14,7 +14,7 @@ Dataset Link: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 
 ## Test Results
-### Best result
+#### Best result
 ![Comparison of two images with best results](https://github.com/Jon-Lein/Naive-Bayes-Pixel-Level-Image-Segmentation/blob/main/Some%20Results/Best_result.png)
 
 The solid background of this image produced one of the best results from my testing set. 
