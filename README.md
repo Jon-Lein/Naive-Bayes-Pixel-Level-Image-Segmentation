@@ -4,6 +4,15 @@ Implementation of a naive Bayes algorithm for Image segmentation trained with Th
 
 Dataset Link: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
+## Model PDFs
+
+![Red PDF](https://github.com/Jon-Lein/Naive-Bayes-Pixel-Level-Image-Segmentation/blob/main/PDFs/Red_PDF.png)
+
+![Green_PDF](https://github.com/Jon-Lein/Naive-Bayes-Pixel-Level-Image-Segmentation/blob/main/PDFs/Green_PDF.png)
+
+![Blue PDF](https://github.com/Jon-Lein/Naive-Bayes-Pixel-Level-Image-Segmentation/blob/main/PDFs/Blue_PDF.png)
+
+
 ## Test Results
 ### Best result
 ![Comparison of two images with best results](https://github.com/Jon-Lein/Naive-Bayes-Pixel-Level-Image-Segmentation/blob/main/Some%20Results/Best_result.png)
