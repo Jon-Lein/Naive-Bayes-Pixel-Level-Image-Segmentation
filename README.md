@@ -4,4 +4,4 @@ Implementation of a naive Bayes algorithm for Image segmentation trained with Th
 
 Dataset Link: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
-![Dog Image 1]("/Some Results/dog.jpg")
+![Dog Image 1](/Some Results/dog.jpg)
